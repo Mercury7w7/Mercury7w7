@@ -1,6 +1,6 @@
 <h2 align="center"> Hi! I'm Jesus Lagares ✨. </h2>
 <p align="center">
-  <a href='https://postimg.cc/YvmG47j4' target='_blank'><img src='https://i.postimg.cc/YvmG47j4/Banner-github.jpg' border='0' alt='Banner-github'/></a>
+  <a href='https://postimg.cc/YvmG47j4' target='_blank'><img src='https://i.postimg.cc/YvmG47j4/Banner-github.jpg' border='0' height="50" width="72" alt='Banner-github'/></a>
 </p>
 <h2 align="center"> I'm a Software development and management student 💻, Software development and management student 🎙️! </h2>
 
@@ -49,4 +49,4 @@ I'm in love with communication and technology.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mercury7w7&show_icons=true&theme=tokyonight)
 
 ## ⌨️ Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mercury7w7x&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mercury7w7x&layout=compact&theme=tokyonight)](https://github.com/Mercury7w7/github-readme-stats)
