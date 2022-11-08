@@ -1,5 +1,6 @@
 <h2 align="center"> Hi! I'm Jesus Lagares ✨. </h2>
-<p align="center">
+<p align="center">![Banner github](https://user-images.githubusercontent.com/95109932/200448816-c601e4f6-0d0a-472c-827e-5779db68b48c.jpg)
+
   <a href='https://postimg.cc/YvmG47j4' target='_blank'><img src='https://i.postimg.cc/YvmG47j4/Banner-github.jpg' border='0' height="200" width="400" alt='Banner-github'/></a>
 </p>
 <h2 align="center"> I'm a Software development and management student 💻, Software development and management student 🎙️! </h2>
