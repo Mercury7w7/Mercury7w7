@@ -48,5 +48,3 @@ I'm in love with communication and technology.
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mercury7w7&show_icons=true&theme=tokyonight)
 
-## ⌨️ Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mercury7w7x&layout=compact&theme=tokyonight)](https://github.com/Mercury7w7/github-readme-stats)
