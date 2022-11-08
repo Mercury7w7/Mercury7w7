@@ -1,6 +1,6 @@
 <h2 align="center"> Hi! I'm Jesus Lagares ✨. </h2>
 <p align="center">
-<a href="https://jesuslagares.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059498-bebfd793-1406-47e2-b1a4-bdee5a379823.jpg" alt="my banner"></a>
+<a href='https://postimg.cc/YGBk5Fdf' target='_blank'><img src='https://i.postimg.cc/YGBk5Fdf/NearU.jpg' border='0' alt='NearU'/></a>
 </p>
 <h2 align="center"> I'm a Software development and management student 💻, Software development and management student 🎙️! </h2>
 
