@@ -1,7 +1,7 @@
 <h2 align="center"> Hi! I'm Mercury7w7 ✨. </h2>
 <p align="center">
 <a href="https://my-blog-mauricioram.blogspot.com/2019/07/blog-post_8.html" href='https://postimg.cc![mybanner](https://user-images.githubusercontent.com/95109932/201225728-19074cf2-1cb8-477e-a29e-c6b7bf4d229b.jpg)
-/GBWj0TZ0' target='_blank' rel="noreferrer"><img src='https://i.postimg.cc/GBWj0TZ0/mybanner.jpg' border='0' width='820' height='120' alt='mybanner'/></a>
+/GBWj0TZ0' target='_blank' rel="noreferrer"><img src='https://i.postimg.cc/GBWj0TZ0/mybanner.jpg' border='0' width='410' height='120' alt='mybanner'/></a>
 </p>
 <h2 align="center"> I'm a Software development and management student 💻, and a Computer maintenance technician 🎙️! </h2>
 
