@@ -4,7 +4,8 @@
 </p>
 <h2 align="center"> I'm a Computer Science Student 💻, and a Speaker specialized in Tech 🎙️! </h2>
 <p align="center">
-<a href='https://postimg.cc/GBWj0TZ0' target='_blank' rel="noreferrer"><img src='https://i.postimg.cc/GBWj0TZ0/mybanner.jpg' border='0' alt='mybanner'/></a>
+<a href='https://postimg.cc![mybanner](https://user-images.githubusercontent.com/95109932/201225728-19074cf2-1cb8-477e-a29e-c6b7bf4d229b.jpg)
+/GBWj0TZ0' target='_blank' rel="noreferrer"><img src='https://i.postimg.cc/GBWj0TZ0/mybanner.jpg' border='0' alt='mybanner'/></a>
 </p>
 <h2 align="center"> I'm a Software development and management student 💻, and a Computer maintenance technician 🎙️! </h2>
 
