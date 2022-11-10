@@ -1,6 +1,6 @@
 <h2 align="center"> Hi! I'm Mercury7w7 ✨. </h2>
 <p align="center">
-<a href='https://postimg.cc/PNCjnQx4' target='_blank'><img src='https://i.postimg.cc/PNCjnQx4/Bco.jpg' border='0' alt='Bco'/></a>
+<a href='https://postimg.cc/GBWj0TZ0' target='_blank'><img src='https://i.postimg.cc/GBWj0TZ0/mybanner.jpg' border='0' alt='mybanner'/></a>
 </p>
 <h2 align="center"> I'm a Software development and management student 💻, Software development and management student 🎙️! </h2>
 
