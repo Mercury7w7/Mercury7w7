@@ -1,5 +1,9 @@
 <h2 align="center"> Hi! I'm Mercury7w7 ✨. </h2>
 <p align="center">
+  <a href="https://jesuslagares.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059498-bebfd793-1406-47e2-b1a4-bdee5a379823.jpg" alt="my banner"></a>
+</p>
+<h2 align="center"> I'm a Computer Science Student 💻, and a Speaker specialized in Tech 🎙️! </h2>
+<p align="center">
 <a href='https://postimg.cc/GBWj0TZ0' target='_blank'><img src='https://i.postimg.cc/GBWj0TZ0/mybanner.jpg' border='0' alt='mybanner'/></a>
 </p>
 <h2 align="center"> I'm a Software development and management student 💻, Software development and management student 🎙️! </h2>
