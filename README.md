@@ -4,9 +4,9 @@
 </p>
 <h2 align="center"> I'm a Computer Science Student 💻, and a Speaker specialized in Tech 🎙️! </h2>
 <p align="center">
-<a href='https://postimg.cc/GBWj0TZ0' target='_blank'><img src='https://i.postimg.cc/GBWj0TZ0/mybanner.jpg' border='0' alt='mybanner'/></a>
+<a href='https://postimg.cc/GBWj0TZ0' target='_blank' rel="noreferrer"><img src='https://i.postimg.cc/GBWj0TZ0/mybanner.jpg' border='0' alt='mybanner'/></a>
 </p>
-<h2 align="center"> I'm a Software development and management student 💻, Software development and management student 🎙️! </h2>
+<h2 align="center"> I'm a Software development and management student 💻, and a Computer maintenance technician 🎙️! </h2>
 
 > "I'm here to put on a show".
 I'm in love with communication and technology. 
