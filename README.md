@@ -31,7 +31,7 @@ I'm in love with communication and technology.
 ## 💼 Technical Skills   
 ![React](https://img.shields.io/badge/React-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavScript-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React-Native](https://img.shields.io/badge/React-Native-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React-Native](https://img.shields.io/badge/React-Native-3670A0?style=for-the-badge&logo=reactnative&logoColor=ffdd54)
 ![Expo](https://img.shields.io/badge/Expo-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
