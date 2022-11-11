@@ -5,7 +5,7 @@
 /GBWj0TZ0' target='_blank' rel="noreferrer"><img src='https://i.postimg.cc/GBWj0TZ0/mybanner.jpg' border='0' width='410' height='120' alt='mybanner'/></a>
 </p>
 <h2 align="center"> I'm a Software development and management student 💻, and a Computer maintenance technician 🎙️! </h2>
-
+[![NearU.jpg](https://i.postimg.cc/26V6BFvJ/NearU.jpg)](https://postimg.cc/YGBk5Fdf)
 > "I'm here to put on a show".
 I'm in love with communication and technology. 
   I love solving problems and creating innovative solutions. I'm an enthusiastic about learning new things and meeting new people. I am currently finishing Software Development and Management at the Technological University of Izucar de Matamoros. 
