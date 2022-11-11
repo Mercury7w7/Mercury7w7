@@ -1,11 +1,11 @@
 <h2 align="center"> Hi! I'm Mercury7w7 ✨. </h2>
 <p align="center">
-  ![NearU.jpg](https://i.postimg.cc/26V6BFvJ/NearU.jpg)](https://postimg.cc/YGBk5Fdf)
+ <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/26V6BFvJ/NearU.jpg' border='0' alt='NearU'/></a>
 <a href="https://my-blog-mauricioram.blogspot.com/2019/07/blog-post_8.html" href='https://postimg.cc![mybanner](https://user-images.githubusercontent.com/95109932/201225728-19074cf2-1cb8-477e-a29e-c6b7bf4d229b.jpg)
 /GBWj0TZ0' target='_blank' rel="noreferrer"><img src='https://i.postimg.cc/GBWj0TZ0/mybanner.jpg' border='0' width='410' height='120' alt='mybanner'/></a>
 </p>
 <h2 align="center"> I'm a Software development and management student 💻, and a Computer maintenance technician 🎙️! </h2>
-[![NearU.jpg](https://i.postimg.cc/26V6BFvJ/NearU.jpg)](https://postimg.cc/YGBk5Fdf)
+
 > "I'm here to put on a show".
 I'm in love with communication and technology. 
   I love solving problems and creating innovative solutions. I'm an enthusiastic about learning new things and meeting new people. I am currently finishing Software Development and Management at the Technological University of Izucar de Matamoros. 
